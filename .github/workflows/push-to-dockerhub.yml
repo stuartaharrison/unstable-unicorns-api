@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: $env.DOCKERHUB_USERNAME/unstable-unicorns-api:latest
+          tags: ${{env.DOCKERHUB_USERNAME}}/unstable-unicorns-api:latest
