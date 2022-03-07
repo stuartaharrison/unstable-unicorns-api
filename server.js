@@ -1,3 +1,4 @@
+const path = require('path');
 const cors = require('cors');
 const http = require('http');
 const express = require('express');
@@ -18,7 +19,16 @@ const apolloServer = new ApolloServer({
 });
 
 apolloServer.start().then(_ => {
+    // apply the GraphQL middleware layer that will enable the Apollo Server
+    // this is done before we add react client
     apolloServer.applyMiddleware({ app });
+
+    // add react-client AFTER apollo server otherwise /graphql will not get picked up
+    app.get('*', (req, res) => {
+        res.sendFile(path.resolve(__dirname, "client", "build", "index.html"));
+    });
+
+    // listen on the server side
     httpServer.listen(4000, () => {
         console.log(`🚀  Server ready at http://localhost:4000${apolloServer.graphqlPath}`);
     });
