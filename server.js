@@ -24,9 +24,7 @@ apolloServer.start().then(_ => {
     apolloServer.applyMiddleware({ app });
 
     // add react-client AFTER apollo server otherwise /graphql will not get picked up
-    app.get('*', (req, res) => {
-        res.sendFile(path.resolve(__dirname, "client", "build", "index.html"));
-    });
+    app.use(express.static(path.join(__dirname, './client/build')));
 
     // listen on the server side
     httpServer.listen(4000, () => {

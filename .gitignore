@@ -108,3 +108,6 @@ static/
 
 # Ignore JetBrains IDEs
 .idea/
+
+# Ignore client build folder
+client/build
