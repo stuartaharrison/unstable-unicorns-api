@@ -1,0 +1,27 @@
+[
+    {
+        "id": "b6a87bd9f0a84ad086bd63cec5236fb9",
+        "name": "Exclusive",
+        "image": "packs/base-game.jpg",
+        "text": "Exclusive cards are those given out at events or given out as part of the many Kickstarters run by Unstable Games.",
+        "purchaseLinks": []
+    },
+    {
+        "id": "ce587137227048469651bea1d26e2e94",
+        "name": "Base Game",
+        "image": "packs/base-game.jpg",
+        "text": "One of Kickstarter's Top 50 most backed projects of all time! Unstable Unicorns is a strategic card game about everyone's two favorite things: Destruction and Unicorns.",
+        "purchaseLinks": [
+            "https://www.amazon.co.uk/TeeTurtle-TEE3678UUBSG1-Unstable-Unicorns-Multi-Colour/dp/B07BMLQBM1/ref=sr_1_3?crid=3C98DHBWB7OPY&keywords=unstable+unicorns&qid=1646641190&sprefix=unstable+unicorns%2Caps%2C391&sr=8-3"
+        ]
+    },
+    {
+        "id": "0e1038acd8a14be289e06b141a5d1739",
+        "name": "Rainbow Apocalypse Expansion Pack",
+        "image": "packs/rainbow-apocolypse.jpg",
+        "text": "Unstable Unicorns Rainbow Apocalypse Expansion Pack is designed to be added to your Unstable Unicorns Card Game (or Unstable Unicorns NSFW Card Game). This pack includes cards ranging from super cute unicorns to the terrifyingly destructive Four Unicorns of the Apocalypse.",
+        "purchaseLinks": [
+            "https://www.amazon.co.uk/TeeTurtle-TEE3678UUBSG1-Unstable-Unicorns-Multi-Colour/dp/B07DLRLPSZ/ref=sr_1_3?crid=3C98DHBWB7OPY&keywords=unstable%2Bunicorns&qid=1646641190&sprefix=unstable%2Bunicorns%2Caps%2C391&sr=8-3&th=1"
+        ]
+    }
+]

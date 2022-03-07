@@ -1,0 +1,282 @@
+[
+    {
+        "id": "8c59d10f9b8f4a1fbddcd6c49e35d5c0",
+        "name": "Disaster Relief Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "b6a87bd9f0a84ad086bd63cec5236fb9",
+        "image": "UU-KSE-006-02.png",
+        "text": "When this card enters your Stable, each player must SACRIFICE all Downgrade cards. Search the deck for an Upgrade card and bring it directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "326955c4d8b64e48a6da767745873ef6",
+        "name": "Seductive Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "seductive.jpg",
+        "text": "When this card enters your Stable, STEAL a Unicorn card. If this card leaves your Stable, return that Unicorn card to the Stable from which you stole it."
+    },
+    {
+        "id": "48e191f80a5e49939948006553619c9d",
+        "name": "Unicorn On The Cob",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "unicornonthecob.jpg",
+        "text": "When this card enters your Stable, DRAW 2 cards and DISCARD a card."
+    },
+    {
+        "id": "5c883461b9134b9ca46006a7413ee971",
+        "name": "Magical Flying Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "magicalflying.jpg",
+        "text": "When this card enters your Stable, you may choose a Magic card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead."
+    },
+    {
+        "id": "2ae1926ab1aa4ceb8045ef84c425dda7",
+        "name": "Stabby the Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "stabby.jpg",
+        "text": "If this card is sacrificed or destroyed, you may DESTROY a Unicorn card."
+    },
+    {
+        "id": "39a5b4cecc42465fbce16ae1f093466c",
+        "name": "Mermaid Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "mermaid.jpg",
+        "text": "When this card enters your Stable, you may choose any player. Return a card in that player's Stable to their hand."
+    },
+    {
+        "id": "5be2f54cb46c48f6a2c37f807155b411",
+        "name": "Greedy Flying Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "greedyflying.jpg",
+        "text": "When this card enters your Stable, DRAW a card. If this card would be sacrificed or destroyed, return it to your hand instead."
+    },
+    {
+        "id": "92cf3b63322e4553a79279f04530b649",
+        "name": "Swift Flying Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "swiftflying.jpg",
+        "text": "When this card enters your Stable, you may choose an Instant card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead."
+    },
+    {
+        "id": "a995ee1275184bd18f9a6479b0fff94b",
+        "name": "Majestic Flying Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "majesticflying.jpg",
+        "text": "When this card enters your Stable, you may choose a Unicorn card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead."
+    },
+    {
+        "id": "b427f10bc6014a14a206d70bd20cb63e",
+        "name": "Queen Bee Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "queenbee.jpg",
+        "text": "Basic Unicorn cards cannot enter any other player's Stable."
+    },
+    {
+        "id": "bc8e30af112a4deab458ff3194782638",
+        "name": "Rhinocorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "rhinocorn.jpg",
+        "text": "If this card is in your Stable at the beginning of your turn, you may DESTROY a Unicorn card. If you do, immediately skip to your End of Turn phase."
+    },
+    {
+        "id": "9001b45fb41b4978b3cb7650c47dce6b",
+        "name": "Rainbow Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "rainbow.jpg",
+        "text": "When this card enters your Stable, you may bring a Basic Unicorn card from your hand directly into your Stable."
+    },
+    {
+        "id": "ce5d24ed34494f73bc562513fd80ecfe",
+        "name": "Narwhal Torpedo",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "narwhaltorpedo.jpg",
+        "text": "When this card enters your Stable, SACRIFICE all Downgrade cards."
+    },
+    {
+        "id": "7e9b1aaea19540cd8f69bb0b834edf8b",
+        "name": "Classy Narwhal",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "classynarwhal.jpg",
+        "text": "When this card enters your Stable, you may search the deck for an Upgrade card and add it to your hand. Shuffle the deck."
+    },
+    {
+        "id": "f73b6975231148dd8a5540d629198f90",
+        "name": "Black Knight Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "blackknight.jpg",
+        "text": "If 1 of your Unicorn cards would be destroyed, you may SACRIFICE this card instead."
+    },
+    {
+        "id": "4c4acf7b85f7434dae817b2c08925316",
+        "name": "The Great Narwhal",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "thegreatnarwhal.jpg",
+        "text": "When this card enters your Stable, you may search the deck for a card with 'Narwhal' in its name and add it to your hand. Shuffle the deck."
+    },
+    {
+        "id": "7fb4d87f05d846c68a4758158bfef882",
+        "name": "Puppicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "puppicorn.jpg",
+        "text": "Each time any player begins their turn, move this card to that player's Stable. This card cannot be sacrificed or destroyed."
+    },
+    {
+        "id": "5944c99371394170bad457a6d2caadcc",
+        "name": "Shark with a Horn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "sharkwithahorn.jpg",
+        "text": "When this card enters your Stable, you may SACRIFICE this card. If you do, DESTROY a Unicorn card."
+    },
+    {
+        "id": "21ffa8187e1a4380a4359aced86757fb",
+        "name": "Alluring Narwhal",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "alluring.png",
+        "text": "When this card enters your Stable, you may STEAL an Upgrade card."
+    },
+    {
+        "id": "f9f859bd53c643bca6d1c2d92edc7035",
+        "name": "Annoying Flying Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "annoying.png",
+        "text": "When this card enters your Stable, you may choose any player. That player must DISCARD a card. If this card would be sacrificed or destroyed, return it to your hand instead."
+    },
+    {
+        "id": "701cec789cbc44528544f55363a5ae04",
+        "name": "Americorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "americorn.png",
+        "text": "When this card enters your Stable, choose any player. Pull a card from that player's hand."
+    },
+    {
+        "id": "6cf0d486789141368bd7db005895f4eb",
+        "name": "Ginormous Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "ginormous.jpg",
+        "text": "This card counts for 2 Unicorns. You cannot play any Instant cards."
+    },
+    {
+        "id": "5f7cdcd286be4737ba706e54abe34046",
+        "name": "Shabby the Narwhal",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "shabby.jpg",
+        "text": "When this card enters your Stable, you may search the deck for a Downgrade card and add it to your hand. Shuffle the deck."
+    },
+    {
+        "id": "605719f8b3ec45e396eea4c671c254b9",
+        "name": "Chainsaw Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "chainsaw.jpg",
+        "text": "When this card enters your Stable, you may SACRIFICE or DESTROY an Upgrade or Downgrade card."
+    },
+    {
+        "id": "2e282f16c6e542b181a3a8f1698f98b8",
+        "name": "Zombie Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Base-027-02.png",
+        "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD a Unicorn card. If you do, choose a Unicorn card from the discard pile and bring it directly into your Stable, then immediately skip to your End of Turn Phase."
+    },
+    {
+        "id": "40c45ed1262e4187b5a1c3419fe0685a",
+        "name": "Extremely Fertile Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Base-084-02.png",
+        "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable."
+    },
+	{
+        "id": "a7e95c117d1245b19afb416ef9e3258b",
+        "name": "Angel Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Base-034-02.png",
+        "text": "If this card is in your Stable at the beginning of your turn, you may SACRIFICE this card. If you do, choose a Unicorn card from the discard pile and bring it directly into your Stable."
+    },
+	{
+        "id": "7dfb3acb517d4735af134619a2229bc1",
+        "name": "Unicorn Phoenix",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Base-041-SE.png",
+        "text": "If this card would be sacrificed or destroyed, you may DISCARD a card instead."
+    },
+	{
+        "id": "6ba0cacb9a574f818cfb313b68388bcb",
+        "name": "Llamacorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Base-030-SE.png",
+        "text": "When this card enters your Stable, each player (including you) must DISCARD a card."
+    },
+	{
+        "id": "4a54dc88f3d24ec1ae7561bb9d4ed46a",
+        "name": "Magical Kittencorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Base-023-V.png",
+        "text": "This card cannot be destroyed by Magic cards."
+    },
+	{
+        "id": "ca203e49139542758eb3333b63760eff",
+        "name": "Extremely Destructive Unicorn",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Base-028-SE.png",
+        "text": "When this card enters your Stable, each player (including you) must SACRIFICE a Unicorn card."
+    },
+    {
+        "id": "95d2d3c80ee04a72a1d4164bc93c96be",
+        "name": "Unicorn of Death",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-008-02.png",
+        "text": "If this card is in your Stable at the beginning of your turn, you may SACRIFICE a Unicorn card. If you do, DESTROY a Unicorn card."
+    },
+    {
+        "id": "3cfc390395294099ab7c2f59a60cd1f1",
+        "name": "Unicorn of Pestilence",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-009-02.png",
+        "text": "When this card enters your Stable, each player must DISCARD their hand."
+    },
+    {
+        "id": "fc79b5ea03b64bd3b79275942cb525ba",
+        "name": "Unicorn of War",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-010-02.png",
+        "text": "When this card enters your Stable, choose any number of players. DESTROY a Unicorn card in each of their Stable. Each of the chosen players may then DESTROY a Unicorn card in your Stable."
+    },
+    {
+        "id": "719df22bb51945b184a547f0df84a837",
+        "name": "Unicorn of Famine",
+        "type": "757ef5818a9c4157bc17a019799c1c8b",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-011-02.png",
+        "text": "Each player has a hand limit of 2 cards."
+    }
+]

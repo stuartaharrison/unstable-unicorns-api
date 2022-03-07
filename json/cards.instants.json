@@ -1,0 +1,18 @@
+[
+    {
+        "id": "e2b98b2ff99a42a087f270ab736ec231",
+        "name": "Neigh",
+        "type": "0c89d3be0ab7476bb838cad787036e77",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "neigh.jpg",
+        "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile."
+    },
+    {
+        "id": "b05637817970427eb253fb340ab1495b",
+        "name": "Super Neigh",
+        "type": "0c89d3be0ab7476bb838cad787036e77",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "UU-ChCo-001.png",
+        "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile. This card cannot be Neigh'd."
+    }
+]

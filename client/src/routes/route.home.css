@@ -1,0 +1,6 @@
+.hero-banner {
+    background-image: url("/images/unstable-unicorns-banner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

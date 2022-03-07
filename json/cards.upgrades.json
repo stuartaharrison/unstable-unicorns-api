@@ -1,0 +1,66 @@
+[
+    {
+        "id": "fc3b51699bf94aec9ed5c77654797678",
+        "name": "Unicorn Lasso",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "unicornlasso.jpg",
+        "text": "If this card is in your Stable at the beginning of your turn, you may STEAL a Unicorn card. At the end of your turn, return that Unicorn card to the Stable from which you stole it."
+    },
+    {
+        "id": "d9003d51d2e647d3acebbfc943a1b037",
+        "name": "Glitter Bomb",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "glitterbomb.jpg",
+        "text": "If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card. If you do, DESTROY a card."
+    },
+    {
+        "id": "0f32d105b74a42c5a2a4c5795268bc87",
+        "name": "Summoning Ritual",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "summoningritual.jpg",
+        "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD 2 Unicorn cards. If you do, bring a Unicorn card directly from the discard pile into your Stable."
+    },
+    {
+        "id": "758207d7435448768ef36044f6798c3c",
+        "name": "Yay",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "yay.jpg",
+        "text": "Cards you play cannot be Neigh'd."
+    },
+    {
+        "id": "4a9f9984c7aa47c4acceb8f85eca4be3",
+        "name": "Extra Tail",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "extratail.jpg",
+        "text": "This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may DRAW an extra card."
+    },
+    {
+        "id": "2fdda7960ecb44ef9c4dcebd0187d9cc",
+        "name": "Rainbow Mane",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "rainbowmane.jpg",
+        "text": "This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may bring a Basic Unicorn card from your hand directly into your Stable."
+    },
+    {
+        "id": "59d76396873949ea84ce55dcff21b6da",
+        "name": "Rainbow Aura",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "rainbowaura.jpg",
+        "text": "Your Unicorn cards cannot be destroyed."
+    },
+    {
+        "id": "cba41f2e986f4fc2976105de4f1899e4",
+        "name": "Double Dutch",
+        "type": "163a0448331f4479b5d37a5cf9614fb5",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "doubledutch.jpg",
+        "text": "If this card is in your Stable at the beginning of your turn, you may play 2 cards during your Action phase."
+    }
+]

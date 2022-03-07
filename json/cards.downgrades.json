@@ -1,0 +1,66 @@
+[
+    {
+        "id": "932dba913b9b41b58ad298734924c65a",
+        "name": "Blinding Light",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "blindinglight.jpg",
+        "text": "Triggered effects of your Unicorn cards do not activate."
+    },
+    {
+        "id": "85cea0aa298c4751a5ff08e85075a0dd",
+        "name": "Tiny Stable",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "tinystable.jpg",
+        "text": "If at any time you have more than 5 Unicorns in your Stable, SACRIFICE a Unicorn card."
+    },
+    {
+        "id": "d8875039e2a449898c66c71c59168b82",
+        "name": "Pandamonium",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "pandamonium.jpg",
+        "text": "All of your Unicorns are considered Pandas. Cards that affect Unicorn cards do not affect your Pandas."
+    },
+    {
+        "id": "1de1f3f6c5714f6d84f00bdee0c34516",
+        "name": "Sadistic Ritual",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "sadisticritual.jpg",
+        "text": "If this card is in your Stable at the beginning of your turn, SACRIFICE a Unicorn card, then DRAW a card."
+    },
+    {
+        "id": "6bc23add99794a6795256ca45c1b36d2",
+        "name": "Slowdown",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "slowdown.jpg",
+        "text": "You cannot play Instant cards."
+    },
+    {
+        "id": "9a117c57758e4dc683a85ded88025050",
+        "name": "Nanny Cam",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "nannycam.jpg",
+        "text": "Your hand must be visible to all players at all times."
+    },
+    {
+        "id": "4236df715ad94a62b94d5a056f283908",
+        "name": "Broken Stable",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "brokenstable.jpg",
+        "text": "You cannot play Upgrade cards."
+    },
+    {
+        "id": "790efbdd3ab84e06af018868a19ad39d",
+        "name": "Barbed Wire",
+        "type": "ef8609f3a19543ef9d35dbc531f0200c",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "barbedwire.jpg",
+        "text": "Each time a Unicorn card enters or leaves your stable, DISCARD a card."
+    }
+]

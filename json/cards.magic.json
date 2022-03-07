@@ -1,0 +1,194 @@
+[
+    {
+        "id": "a93487da7dd24d7682348c0d84344a7c",
+        "name": "Unicorn Shrinkray",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "unicornshrinkray.jpg",
+        "text": "Choose any player. Move all of that player's Unicorn cards to the discard pile without triggering any of their effects, then bring the same number of Baby Unicorn cards from the Nursery directly into that player's Stable."
+    },
+    {
+        "id": "27e3c041951e4f5192642aa8945623d7",
+        "name": "Good Deal",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "gooddeal.jpg",
+        "text": "DRAW 3 cards and DISCARD a card."
+    },
+    {
+        "id": "a40ebf5621f9466398cb8ece112d97f4",
+        "name": "Shake Up",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "shakeup.jpg",
+        "text": "Shuffle this card, your hand, and the discard pile into the deck. DRAW 5 cards."
+    },
+    {
+        "id": "b553a5b1b5e44c72b87a7b9318f5f1f3",
+        "name": "Blatant Thievery",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "blatantthievery.jpg",
+        "text": "Choose any player and look at that player's hand. Choose a card from that player's hand and add it to your hand."
+    },
+    {
+        "id": "f17d165f4cbf40ed9f3dbfc4aad5292d",
+        "name": "Mystical Vortex",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "mysticalvortex.jpg",
+        "text": "Each player must DISCARD a card. Shuffle the discard pile into the deck."
+    },
+    {
+        "id": "57be6b96f3864a8785941cfddf977b5c",
+        "name": "Reset Button",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "resetbutton.jpg",
+        "text": "Each player must SACRIFICE all Upgrade and Downgrade cards. Shuffle the discard pile into the deck."
+    },
+    {
+        "id": "eb847f4764cd4529b018cf6c7f3cfd5b",
+        "name": "Targeted Destruction",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "targeteddestruction.jpg",
+        "text": "SACRIFICE or DESTROY an Upgrade or Downgrade card."
+    },
+    {
+        "id": "763187421773494bbde70aaab65e57c7",
+        "name": "Glitter Tornado",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "glittertornado.jpg",
+        "text": "Return a card in each player's Stable to that player's hand."
+    },
+    {
+        "id": "fcec4da5e9f94cddac90698d69f5127c",
+        "name": "Change Of Luck",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "changeofluck.jpg",
+        "text": "DRAW 2 cards and DISCARD 3 cards, then take another turn."
+    },
+    {
+        "id": "544c009229ef4ff3ab30d25b0eb4eb56",
+        "name": "Unicorn Poison",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "unicornpoison.jpg",
+        "text": "DESTROY a Unicorn card."
+    },
+    {
+        "id": "2eb31efc8e88413db7c6d658e1e238df",
+        "name": "Two-for-one",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "twoforone.jpg",
+        "text": "SACRIFICE a card, then DESTROY 2 cards."
+    },
+    {
+        "id": "93fecc42067742129fbdce20e8bf6071",
+        "name": "Re-target",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "retarget.jpg",
+        "text": "Move an Upgrade or Downgrade card from any player's Stable to any other player's Stable."
+    },
+    {
+        "id": "5821f497d4044d03be577406d41aae97",
+        "name": "Back Kick",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "backkick.jpg",
+        "text": "Choose any player. Return a card in that player's Stable to their hand. That player must DISCARD a card."
+    },
+    {
+        "id": "2180493f80c14f9da100c68657171d53",
+        "name": "Unfair Bargain",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "unfairbargain.jpg",
+        "text": "Trade hands with any other player."
+    },
+    {
+        "id": "24981dad1b614e0db7f7f35965902a10",
+        "name": "Unicorn Swap",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "unicornswap.jpg",
+        "text": "Move a Unicorn card in your Stable to any other player's Stable, then STEAL a Unicorn card from that player's Stable."
+    },
+    {
+        "id": "655e84020f2148dd914b61cfd8ebda7e",
+        "name": "Unicorns of the Apocalypse",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "fourunicornsoftheapocalypse.jpg",
+        "text": "SACRIFICE 4 Unicorn cards, then search the deck for 4 Unicorn cards and bring them directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "2e337f70a38a4580a0afb4683904334d",
+        "name": "Heavenly Smite",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-013-02.png",
+        "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an 'Angel Unicorn' card and bring it directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "9f71d6c937b347e4a7aac507743a06de",
+        "name": "Overpopulation",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-014-02.png",
+        "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an 'Extremely Fertile Unicorn' card and bring it directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "4fdfcdc87160483a819326f7de6d75b4",
+        "name": "Plague of Death",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-015-02.png",
+        "text": "SACRIFICE any number of cards, then DESTROY the same number of cards."
+    },
+    {
+        "id": "c020568afb4f49d681fcb5f5c34bbcae",
+        "name": "Storm of Cuteness",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-016-02.png",
+        "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a 'Kittencorn' card and bring it directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "5f08a436411541b5afaed567ec89a8d8",
+        "name": "Fire and Brimstone",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-017-02.png",
+        "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a 'Unicorn Phoenix' card and bring it directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "4a29d7b54e3f46b1a939ea78d5dc0b34",
+        "name": "Zombie Apocalypse",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-018-02.png",
+        "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a 'Zombie Unicorn' card and bring it directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "8372d7f4dfc2405692d258aa239f24d0",
+        "name": "Llamapocalypse",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-019-02.png",
+        "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a 'Llamacorn' card and bring it directly into your Stable. Shuffle the deck."
+    },
+    {
+        "id": "ddaa7d97f77b49efbdf67b1b8a550778",
+        "name": "Ultimate Destruction",
+        "type": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "pack": "0e1038acd8a14be289e06b141a5d1739",
+        "image": "UU-Apoc-020-02.png",
+        "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an 'Extremely Destructive Unicorn' card and bring it directly into your Stable. Shuffle the deck."
+    }
+]

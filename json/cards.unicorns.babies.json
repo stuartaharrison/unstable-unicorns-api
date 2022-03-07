@@ -1,0 +1,98 @@
+[
+    {
+        "id": "3c5fb636c8f74621a9a4b3ef6d0b290b",
+        "name": "Baby Unicorn (Death)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babydeath.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "bf0d6978b926483eae91f5a6d3097925",
+        "name": "Baby Unicorn (Black)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babyblack.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "bd32fb65cdce460ebc070806641a5fc6",
+        "name": "Baby Narwhal",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babynarwhal.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "c906b312593f4d259902621e6b5a2d6a",
+        "name": "Baby Unicorn (Purple)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babypurple.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "5a8ff61e9ed14e899f8e4408b0497397",
+        "name": "Baby Unicorn (Brown)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babybrown.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "4e8ad9aeb7f64e30a1563eec37eb6bf4",
+        "name": "Baby Unicorn (Green)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babygreen.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "44e416ec398c478ebb34a3a0d25eee7e",
+        "name": "Baby Unicorn (Pink)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babypink.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "e0a812c8743e4a6cb90a426e90760021",
+        "name": "Baby Unicorn (Yellow)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babyyellow.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "0798889dc76143b9bdd4026ebc7c28a4",
+        "name": "Baby Unicorn (Blue)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babyblue.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "eb8026848763431cad809de2fc5ddd4f",
+        "name": "Baby Unicorn (Orange)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babyorange.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "fc719c4b54434eeb9f88504494b629f4",
+        "name": "Baby Unicorn (Rainbow)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babyrainbow.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    },
+    {
+        "id": "021d2979885a4a8792fb8cf5e6ceedff",
+        "name": "Baby Unicorn (White)",
+        "type": "f1b58944f3034424a8837df3e6ab9e49",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "babywhite.jpg",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead."
+    }
+]

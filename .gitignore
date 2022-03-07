@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ignore the static folder that has cached card images (copyright issues)
+static/
+
+# Ignore JetBrains IDEs
+.idea/

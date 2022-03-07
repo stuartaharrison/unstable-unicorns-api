@@ -1,0 +1,66 @@
+[
+    {
+        "id": "0ba50ce8ab0b4af3855918b861b8062b",
+        "name": "Narwhal",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicnarwhal.jpg",
+        "text": "This card has no special powers, but it sure is cute!"
+    },
+    {
+        "id": "0378b8acd8a849b9a738b1b419103ba9",
+        "name": "Basic Unicorn (Red)",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicred.jpg",
+        "text": "Beards are like, so hot."
+    },
+    {
+        "id": "688cd73d81b74fe9aa34b5291c6bfaa2",
+        "name": "Basic Unicorn (Purple)",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicpurple.jpg",
+        "text": "#nomakeup #nofilter #sunnies #shameless #selfie #basic #TGIF #unicornhairdontcare"
+    },
+    {
+        "id": "485cea76adba4ea1a7680c5a0efd772a",
+        "name": "Basic Unicorn (Indigo)",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicindigo.jpg",
+        "text": "💖🙌💅🙌💖💁💁😂😂😂"
+    },
+    {
+        "id": "792500e55ca548e59976c3c17a923e66",
+        "name": "Basic Unicorn (Blue)",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicblue.jpg",
+        "text": "Popped collars are for date nights only."
+    },
+    {
+        "id": "a67762938d1540f684d12b8179fc4ba3",
+        "name": "Basic Unicorn (Green)",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicgreen.jpg",
+        "text": "Vinyl records and mixtapes only."
+    },
+    {
+        "id": "cde9a65df88a45efa84b206a8adc91a1",
+        "name": "Basic Unicorn (Yellow)",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicyellow.jpg",
+        "text": "Dance like nobody's watching."
+    },
+    {
+        "id": "3144a3f7b910416c8ceff92f7e9f6889",
+        "name": "Basic Unicorn (Orange)",
+        "type": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "pack": "ce587137227048469651bea1d26e2e94",
+        "image": "basicorange.jpg",
+        "text": "Pumpkin spice is the pumpkin spice of life."
+    }
+]

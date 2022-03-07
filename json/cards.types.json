@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0c89d3be0ab7476bb838cad787036e77",
+        "name": "Instant"
+    },
+    {
+        "id": "163a0448331f4479b5d37a5cf9614fb5",
+        "name": "Upgrade"
+    },
+    {
+        "id": "ef8609f3a19543ef9d35dbc531f0200c",
+        "name": "Downgrade"
+    },
+    {
+        "id": "5f8427048d6f47abbf18c9ccfcb7bcfe",
+        "name": "Magic"
+    },
+    {
+        "id": "757ef5818a9c4157bc17a019799c1c8b",
+        "name": "Magical Unicorn"
+    },
+    {
+        "id": "0eefa1798fe7462bb0247c1518cd8f2a",
+        "name": "Basic Unicorn"
+    },
+    {
+        "id": "f1b58944f3034424a8837df3e6ab9e49",
+        "name": "Baby Unicorn"
+    }
+]
