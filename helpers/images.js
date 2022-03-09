@@ -1,5 +1,6 @@
 const fs = require('fs');
-const basePath = '/static/images/';
+const basePath = './static/images/';
+const urlBasePath = '/images/';
 const cardUrl = "https://www.unicornsdatabase.com/images/cards/";
 
 const fetchCardImage = (id, imageUrl) => {
@@ -10,8 +11,8 @@ const fetchCardImage = (id, imageUrl) => {
     // It's also important to make sure your local files are the same name as the unicorn database
     // to keep things easier.
     const localImgSrc = `${basePath}${imageUrl}`;
-    if (fs.existsSync(`.${localImgSrc}`)) {
-        return localImgSrc;
+    if (fs.existsSync(`${localImgSrc}`)) {
+        return `${urlBasePath}${imageUrl}`;
     }
 
     // check if we are providing the entire URL
